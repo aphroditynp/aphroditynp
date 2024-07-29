@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aphroditynp
 - 👀 I’m interested in robotics and UAV
 - 🌱 I’m currently learning about UAV
-- 😄 Pronouns: anythings
+- 😄 Pronouns: any
 - ⚡ Fun fact: bzzbzz
 
 <!---
